@@ -1,5 +1,5 @@
 # Chrome-
-Chrome插件
+Chrome-实用插件
 
 1.Google翻译
 
