@@ -14,4 +14,4 @@ Preference>Package Settings>LiveReload>Settings User
 3.安装node.js
 
 
-安装好后需要开启node.js，在Chrome打开的调试页面点击图标变成实心，sublime text 3 修改后，实现自动刷新。
+安装好后需要开启node.js，在Chrome打开的调试页面点击图标变成实心，sublime text 3 修改代码后保存，实现页面自动刷新。
