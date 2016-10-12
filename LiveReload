@@ -1,0 +1,17 @@
+1.Chrome安装扩展LiveReload
+
+2.sublime text 3 安装插件LiveReload
+配置：
+Preference>Package Settings>LiveReload>Settings User
+{ 
+     "enabled_plugins": [
+        "SimpleReloadPlugin",
+        "SimpleRefresh" 
+     ]
+}
+重启ST3
+
+3.安装node.js
+
+
+安装好后需要开启node.js，在Chrome打开的调试页面点击图标变成实心，sublime text 3 修改后，实现自动刷新。
