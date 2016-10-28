@@ -9,4 +9,6 @@ Chrome-实用插件
 
 4.LiveReload
 
-5.掘金  
+5.掘金 
+
+6.Adblock Plus
