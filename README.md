@@ -16,3 +16,5 @@ Chrome-实用插件
 7.AdBlock
 
 8.JSONView
+
+9.Chrome Sniffer Plus
