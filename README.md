@@ -20,3 +20,5 @@ Chrome-实用插件
 9.Chrome Sniffer Plus
 
 10.印象笔记·剪藏
+
+11.OneTab
