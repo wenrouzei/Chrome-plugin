@@ -18,3 +18,5 @@ Chrome-实用插件
 8.JSONView
 
 9.Chrome Sniffer Plus
+
+10.印象笔记·剪藏
