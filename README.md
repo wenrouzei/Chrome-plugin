@@ -13,7 +13,7 @@ Chrome-实用插件
 
 6.Adblock Plus
 
-7.AdBlock
+7.Vue.js devtools
 
 8.JSONView
 
