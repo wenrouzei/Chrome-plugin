@@ -1,6 +1,14 @@
+https://www.npmjs.com/package/livereload
+
 1.Chrome安装扩展LiveReload
 
-2.sublime text 3 安装插件LiveReload
+使用方法一 nodejs插件
+$ npm install -g livereload
+$ livereload [path]
+
+     
+使用方法二 集成sublime
+2.1.sublime text 3 安装插件LiveReload
 配置：
 Preference>Package Settings>LiveReload>Settings User
 { 
@@ -11,7 +19,6 @@ Preference>Package Settings>LiveReload>Settings User
 }
 重启ST3
 
-3.安装node.js
-
+2.2.安装node.js
 
 安装好后需要开启node.js，在Chrome打开的调试页面点击图标变成实心，sublime text 3 修改代码后保存，实现页面自动刷新。
