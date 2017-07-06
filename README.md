@@ -7,7 +7,7 @@ Chrome-实用插件
 
 3.Postman
 
-4.LiveReload
+4.LiveReload(单向修改)\livestyle(双向修改)\BrowserSync(单向修改、支持多平台设备, 非谷歌浏览器插件)
 
 5.掘金 
 
