@@ -15,7 +15,7 @@ Chrome-实用插件
 
 7.Vue.js devtools
 
-8.JSONView
+8.JSON Viewer Awesome
 
 9.Chrome Sniffer Plus
 
