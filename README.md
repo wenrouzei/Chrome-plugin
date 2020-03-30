@@ -24,3 +24,5 @@ Chrome-实用插件
 11.OneTab
 
 12.Octotree
+
+13.JetBrains IDE Support
